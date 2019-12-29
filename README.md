@@ -26,7 +26,7 @@ Everyone grew up playing Tic-Tac-Toe as the best time passing game, mainly durin
 ##### Hope you like the efforts.
 
 Here's a snapshot of the game:
-![alt text]()
+![snapshot](https://github.com/tanmayvijay/Cross-Zero-Classic-Tic-Tac-Toe-game-on-JS/blob/master/Cross-Zero-Image.png)
 <b><b>
   
 Thank You. :)
